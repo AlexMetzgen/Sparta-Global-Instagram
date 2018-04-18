@@ -1,5 +1,6 @@
 # Instagram
-Was tasked with creating a replica of the Instagram home page
+* Was tasked with creating a replica of the Instagram home page
+* Make the Instagram page responsive
 ## items on the Instagram page
 * pictures
   * Instagram logo
@@ -14,5 +15,8 @@ Was tasked with creating a replica of the Instagram home page
   * text
   * buttons
   * hyperlinks
+  * colour matched to original website
+  * Navigation bar
 
+### Finished webpage
   ![GitHub Logo](pictures/Instagram_replica.png)
